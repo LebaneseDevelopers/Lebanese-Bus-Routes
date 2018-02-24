@@ -15,8 +15,10 @@ please check the following [link](https://www.google.com/maps/d/embed?mid=1F367Y
   a. Create a Gmail if you don't have one already
 
   b. Select `My drive`
+  
 2. Right-click in the White Panel Area
-3. Select `More` then Select `Google My Maps`
+
+3. **Select** `More` then **Select** `Google My Maps`
 
 It will open a new Tab with something familiar to Google Maps
 
