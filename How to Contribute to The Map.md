@@ -55,4 +55,4 @@ Then whenever you are ready again, **click** on the line again.
 ### Fill out the Form
 1. Go to the following [form](https://goo.gl/forms/erzaPRBJAhL6V19X2)
 2. **Fill** out all the fields in the form
-3. **Upload** your KML in the Form (gmail is required)
+3. **Upload** your KML in the Form (Gmail is required)
