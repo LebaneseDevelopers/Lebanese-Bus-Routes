@@ -1,4 +1,4 @@
-## How To Contribute to the Map
+# How To Contribute to the Map
 As reference to what you are tryin to make,
 please check the following [link](https://www.google.com/maps/d/embed?mid=1F367Y0wIb2QAU39bC1vfqJ7hAD_W56qy).
 
@@ -8,6 +8,7 @@ please check the following [link](https://www.google.com/maps/d/embed?mid=1F367Y
 3. Have a decent internet connection
 4. Take your time. Don't rush the routes
 
+## Adding a new or Updated Route
 ### Open Google Drive
 
 1. Go to [`drive.google.com`](https://drive.google.com)
@@ -15,7 +16,7 @@ please check the following [link](https://www.google.com/maps/d/embed?mid=1F367Y
   a. Create a Gmail if you don't have one already
 
   b. Select `My drive`
-  
+
 2. Right-click in the White Panel Area
 
 3. **Select** `More` then **Select** `Google My Maps`
@@ -57,4 +58,11 @@ Then whenever you are ready again, **click** on the line again.
 ### Fill out the Form
 1. Go to the following [form](https://goo.gl/forms/erzaPRBJAhL6V19X2)
 2. **Fill** out all the fields in the form
-3. **Upload** your KML in the Form (Gmail is required)
+3. **Select** the `Upload a new route` option or `Fix an old route` in the *What would you like to do?* question. (Depending on your scenario)
+4. **Upload** your KML in the Form (Gmail is required)
+
+## Adding more Info to an Existing Route
+1. Go to the following [form](https://goo.gl/forms/erzaPRBJAhL6V19X2)
+2. **Fill** out all the fields in the form
+3. **Select** `Add more info on an existing route` option in the *What would you like to do?* question.
+4. **Fill** in the Box the information you want to add or append to the route.
