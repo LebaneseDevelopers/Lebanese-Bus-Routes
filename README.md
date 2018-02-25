@@ -13,6 +13,8 @@ These routes have always been available but not everyone knows about them.
 
 We are putting all these routes into a `Google My maps` which can be found [here](https://www.google.com/maps/d/embed?mid=1F367Y0wIb2QAU39bC1vfqJ7hAD_W56qy).
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1F367Y0wIb2QAU39bC1vfqJ7hAD_W56qy" width="640" height="480"></iframe>
+
 The bus Routes are organized into layers where each layer is represented in a *From District* - *To District* format according to the following [Lebanese District Map](). We got this from [this Wikipedia page](https://en.wikipedia.org/wiki/Districts_of_Lebanon).
 
 In addition each route will be as a separate KMZ file which would then be used with the Google Maps API later on. These files can be found in the [KMLs KMZs folder](https://github.com/EbrahimKaram/Lebanese-Bus-Routes/tree/master/KMLs%20KMZs).
