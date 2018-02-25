@@ -8,6 +8,7 @@ These routes have always been available but not everyone knows about them.
 * We are providing Lebanese People an alternative in their daily commute
 * There isn't a unified place where you can find these Routes
 * It gives opportunities for people to develop tools if this information was public and free.
+* In addition, these routes are never static and always changing and the best people who know this are the people who already use it. 
 
 
 We are putting all these routes into a `Google My maps` which can be found [here](https://www.google.com/maps/d/embed?mid=1F367Y0wIb2QAU39bC1vfqJ7hAD_W56qy).
