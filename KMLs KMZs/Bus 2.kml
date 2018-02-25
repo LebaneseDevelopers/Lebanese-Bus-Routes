@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Bus 2 Hamra-Antelias</name>
-    <Style id="line-880E4F-3325-nodesc-normal">
+    <name>Bus 2</name>
+    <Style id="line-880E4F-3325-normal">
       <LineStyle>
         <color>ff4f0e88</color>
         <width>3.325</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <Style id="line-880E4F-3325-nodesc-highlight">
+    <Style id="line-880E4F-3325-highlight">
       <LineStyle>
         <color>ff4f0e88</color>
         <width>4.9875</width>
       </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
     </Style>
-    <StyleMap id="line-880E4F-3325-nodesc">
+    <StyleMap id="line-880E4F-3325">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-880E4F-3325-nodesc-normal</styleUrl>
+        <styleUrl>#line-880E4F-3325-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-880E4F-3325-nodesc-highlight</styleUrl>
+        <styleUrl>#line-880E4F-3325-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
       <name>Bus 2 Hamra-Antelias</name>
-      <styleUrl>#line-880E4F-3325-nodesc</styleUrl>
+      <description>http://onlinelebanonbuses.com/en/lebanon-bus-2/hamra-antelias</description>
+      <styleUrl>#line-880E4F-3325</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>

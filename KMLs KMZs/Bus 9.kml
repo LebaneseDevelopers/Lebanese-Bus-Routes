@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bus 9</name>
+    <Style id="line-EDA29B-4000-normal">
+      <LineStyle>
+        <color>ff9ba2ed</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-EDA29B-4000-highlight">
+      <LineStyle>
+        <color>ff9ba2ed</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-EDA29B-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-EDA29B-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-EDA29B-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Bus 9 Naher El Mot-Barbir</name>
+      <description>http://onlinelebanonbuses.com/en/lebanon-bus-9/naher-el-mot-barbir</description>
+      <styleUrl>#line-EDA29B-4000</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          35.507727,33.878272,0
+          35.513563,33.8787,0
+          35.517125,33.878878,0
+          35.519743,33.879056,0
+          35.520494,33.879127,0
+          35.520086,33.877845,0
+          35.519056,33.875956,0
+          35.519958,33.874941,0
+          35.522211,33.872714,0
+          35.524464,33.870113,0
+          35.525365,33.869115,0
+          35.527425,33.866674,0
+          35.527811,33.866229,0
+          35.530837,33.86614,0
+          35.533862,33.86605,0
+          35.534742,33.86614,0
+          35.535579,33.866532,0
+          35.536072,33.867422,0
+          35.536501,33.869863,0
+          35.53648,33.870255,0
+          35.541394,33.869204,0
+          35.542488,33.869026,0
+          35.541651,33.872108,0
+          35.541072,33.87478,0
+          35.540814,33.87487,0
+          35.540471,33.876936,0
+          35.540192,33.877862,0
+          35.541415,33.878058,0
+          35.542209,33.878343,0
+          35.543046,33.879145,0
+          35.543218,33.879555,0
+          35.545556,33.878682,0
+          35.547531,33.877738,0
+          35.549805,33.878237,0
+          35.552552,33.880428,0
+          35.554934,33.882405,0
+          35.558646,33.885202,0
+          35.564718,33.888622,0
+          35.570319,33.891374,0
+          35.56577,33.895488,0
+          35.567014,33.896691,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
