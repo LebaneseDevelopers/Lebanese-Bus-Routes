@@ -66,3 +66,6 @@ Then whenever you are ready again, **click** on the line again.
 2. **Fill** out all the fields in the form
 3. **Select** `Add more info on an existing route` option in the *What would you like to do?* question.
 4. **Fill** in the Box the information you want to add or append to the route.
+
+
+***Please Provide 48 hours in order for your suggestions to be reviewed then added***
