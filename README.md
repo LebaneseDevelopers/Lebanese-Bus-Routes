@@ -15,6 +15,11 @@ We are putting all these routes into a `Google My maps` which can be found [here
 In addition each route will be as a separate KMZ file which would then be used with the Google Maps API later on. These files can be found in the [KMLs KMZs folder](https://github.com/EbrahimKaram/Lebanese-Bus-Routes/tree/master/KMLs%20KMZs).
 
 If you want to contribute to the map, please check the [following document](https://github.com/EbrahimKaram/Lebanese-Bus-Routes/blob/master/How%20to%20Contribute%20to%20The%20Map.md) on how to do that.
+### Other Resources
+People have pointed out other websites that have some of the routes
+* http://onlinelebanonbuses.com/
+* [Zawarib's Bus Map]()
+*
 
 ### More contributions
 Feel free to suggest what to change in the instruction file. I'm also available for tweets on @BahoKaram
