@@ -24,7 +24,7 @@ If you want to contribute to the map, please check the [following document](http
 People have pointed out other websites that have some of the routes
 * [Online Lebanon Buses](http://onlinelebanonbuses.com/)
 * [Zawarib's Bus Map](https://github.com/EbrahimKaram/Lebanese-Bus-Routes/blob/master/Other%20Resources/Zawarib%20Bus%20Map.jpg)
-* [An old Dated Map from the LCC](https://github.com/EbrahimKaram/Lebanese-Bus-Routes/blob/master/Other%20Resources/Bus%20Map%20From%20internet.jpg)
+* [An old Dated Map from the LCC](https://github.com/EbrahimKaram/Lebanese-Bus-Routes/blob/master/Other%20Resources/LCC%20Bus%20Map%20For%20Beirut.jpg)
 
 ### More contributions
-Feel free to suggest what to change in the instruction file. I'm also available for tweets on @BahoKaram
+Feel free to suggest what to change in the instruction file. I'm also available for tweets on @BahoKaram. Also please feel Free to join the Facebook Group entitled **Facebook Developer Circle: Beirut**
