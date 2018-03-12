@@ -55,6 +55,8 @@ Then whenever you are ready again, **click** on the line again.
 4. Then **click** on `download`
 5. `Select` where you want to download the file
 
+It would be preferble if you saved the KML in the form `Start-Finish-Your Name`
+
 ### Fill out the Form
 1. Go to the following [form](https://goo.gl/forms/erzaPRBJAhL6V19X2)
 2. **Fill** out all the fields in the form
