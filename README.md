@@ -37,4 +37,4 @@ The algorithm was developed as an FYP by [Jad Chamoun](https://github.com/JadCha
 * [Web Panel](https://github.com/JadCham/Intelligent-Transit-Web-Panel)
 
 ### More contributions
-Feel free to suggest what to change in the instruction file. I'm also available for tweets on @BahoKaram. Also please feel Free to join the Facebook Group entitled **Facebook Developer Circle: Beirut**
+Feel free to suggest what to change in the instruction file. I'm also available for tweets on *@BahoKaram*. Also please feel Free to join the Facebook Group entitled **Facebook Developer Circle: Beirut**
