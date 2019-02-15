@@ -23,7 +23,7 @@ In addition each route will be as a separate KMZ file which would then be used w
 
 If you want to contribute to the map, please check the [following document](https://github.com/EbrahimKaram/Lebanese-Bus-Routes/blob/master/How%20to%20Contribute%20to%20The%20Map.md) on how to do that.
 
-I would highly suggest you check the http://busmap.me/ project developed by switchmed and maintained by volunteers
+I would highly suggest you check the http://busmap.me/ project maintained by the Bus Map Project.
 
 
 ### Other Resources
@@ -32,7 +32,7 @@ People have pointed out other websites that have some of the routes
 * [Zawarib's Bus Map](https://github.com/EbrahimKaram/Lebanese-Bus-Routes/blob/master/Other%20Resources/Zawarib%20Bus%20Map.jpg)
 * [An old Dated Map from the LCC](https://github.com/EbrahimKaram/Lebanese-Bus-Routes/blob/master/Other%20Resources/LCC%20Bus%20Map%20For%20Beirut.jpg)
 * Open Street Map has a Transport Layer for lebanon. You can check it [here](https://www.openstreetmap.org/#map=18/33.89163/35.50467&layers=T)
-* [Bus Map Project](http://busmap.me/). The folowup and more advanced follow up of this project
+* [Bus Map Project](http://busmap.me/). The more advanced followup of this project. 
 
 In addition there has been an attempt to make an algorithm which helps users indicate which route they are going to use.
 
